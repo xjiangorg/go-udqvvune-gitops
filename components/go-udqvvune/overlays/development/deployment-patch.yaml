@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/quay_xjiang/go-udqvvune:5d4d22e831bbe4b34bf695756ce0ff11572cf05a@sha256:2e7f2ec5f648ce74971493bc57cde8d50397086173e06225ce7b4b2e67bdc517
+        - image: quay.io/quay_xjiang/go-udqvvune:0dba704ecd0d2da4c624ad04a81dcd9321b695d7@sha256:4a2d3e4d1d1252f0385bdd3a45838d95fcf9ebc81affd654447880e608158208
           name: container-image
